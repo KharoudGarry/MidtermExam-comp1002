@@ -1,0 +1,62 @@
+@import url('./layout.css');
+@import url('./reset.css');
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&family=Poppins:wght@200&family=Roboto:wght@300&display=swap');
+
+.header-option-3 img {
+    
+    width :100% ;
+
+}
+
+.garry {
+    font-size: 10pt;
+    font-weight: bold;
+    text-align: center;
+    padding: 1em;
+    background-color: #333;
+    color: #fff;
+
+
+}
+
+.garry a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.garry {
+    display: flex;
+}
+
+body>div>aside {
+    display: flex;
+    border: 1px solid black;
+
+}
+
+
+
+.imgplce img {
+    
+    width: 100%;
+}
+.containing
+{
+    float: left;
+    
+}
+
+
+.content
+{
+    gap: ;
+}
+footer {
+    background-image: url(../images/scott-webb-UjupleczBOY-unsplash.jpg);
+}
+
+footer {
+    font-size: 30pt;
+    text-align: center;
+    color: rgb(54, 50, 50);
+}
